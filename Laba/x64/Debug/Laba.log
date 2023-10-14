@@ -1,0 +1,4 @@
+﻿  Laba.cpp
+C:\Users\Анна\Desktop\progs\Laba\Laba.cpp(6,1): warning C4005: N: изменение макроопределения
+C:\Users\Анна\Desktop\progs\Laba\izdanie.h(7,1): message : см. предыдущее определение "N"
+  Laba.vcxproj -> C:\Users\Анна\Desktop\progs\Laba\x64\Debug\Laba.exe
